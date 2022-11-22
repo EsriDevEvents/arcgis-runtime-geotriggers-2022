@@ -1,29 +1,14 @@
 # Geotriggers parcel demo
 
-This sample demonstrates how to XXXXX.
-This sample demonstrates ...       
-This is **why** you would do it this way ...
+This sample demonstrates using a FeatureFenceParameters with a Geotrigger, and configuring the fence parameters with a whereClause and bufferDistance.
 
 ## How to use the sample
-e.g. Use the input controls to define a ... Click the "Go" button to ...
 
-## How it works
-e.g. In the `GeoView.Tapped` event, features in the `Map` are selected using an `Envelope` defined by the user's tap location ...
-
-## Relevant API
- - ClassName1
- - MethodName
+Click the buttons at the top of the screen to set a whereClause/bufferDistance. Click the light green button to start monitoring.
 
 ## Offline data
-Read more about how to set up the sample's offline data [here](http://links.esri.com/ArcGISRuntimeQtSamples).
 
-Link | Local Location
+Where to find it | Local Location
 ---------|-------|
-|[San Francisco Streets TPK](https://www.arcgis.com/home/item.html?id=3f1bbf0ec70b409a975f5c91f363fe7d)| `<userhome>`/ArcGIS/Runtime/Data/tpk/SanFrancisco.tpk |
-
-## Additional information
-A standard level license is required to ...
-
-## Tags
-Routing, Network analysis, Geocode
+|`\\shortbread\public\Swagata\DevSummitBerlin2022\parcels.mmpk`| `<userhome>`/ArcGIS/Runtime/Data/mmpk/parcels.mmpk |
 
